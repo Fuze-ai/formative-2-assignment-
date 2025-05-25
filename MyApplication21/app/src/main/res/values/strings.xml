@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application 21</string>
+    <string name="proceed">Proceed</string>
+    <string name="question">Question</string>
+    <string name="is_true">True</string>
+    <string name="is_false">False</string>
+    <string name="move">Move</string>
+    <string name="comment">Comment</string>
+    <string name="score">Score</string>
+    <string name="Comment">Comment</string>
+    <string name="False">false</string>
+    <string name="Move">move</string>
+    <string name="True">true</string>
+    <string name="Question">Question</string>
+    <string name="welcome_to_the_flashcard_history_quiz">Welcome To The Flashcard History Quiz!</string>
+</resources>
