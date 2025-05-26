@@ -6,7 +6,7 @@
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/Fuze-ai/formative-2-assignment-.git)
-- [YouTube Demo Video](https://www.youtube.com/watch?v=your-video-id)
+- [YouTube Video](https://youtube.com/shorts/4LTMiT4bHPo?si=H159rq2HQQCjAxnH)
 
 ## 📋 Purpose of THE APP
 -It is a quiz to see users history knowlege.
