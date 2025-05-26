@@ -5,7 +5,7 @@
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/yourusername/your-repo-name)
+- [GitHub Repository](https://github.com/Fuze-ai/formative-2-assignment-.git)
 - [YouTube Demo Video](https://www.youtube.com/watch?v=your-video-id)
 
 ## 📋 Purpose of THE APP
